@@ -45,3 +45,7 @@ Alternatively, you can fetch the value of `invoiceid` and `price` from your data
 <br><br>
 **Step 11**: Integrate the payment gateway with your existing software application.<br><br>
 That's all. Thank you :)
+
+
+This source code has been published on GitHub Repository under  _GNU General Public License v3.0_.  
+Please visit  [`LICENSE`](https://github.com/iamashraff/toyyibPay-Payment-Gateway-PHP-API/blob/main/LICENSE)  file to read the details about the license.
