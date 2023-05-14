@@ -9,9 +9,9 @@ https://toyyibpay.com/access/registration
 **Step 2**: Login to account here;
 https://toyyibpay.com/access/login
 <br><br>
-**Step 3**: Go to Category > Add New Category.
+**Step 3**: Go to Category > Add New Category.<br>
 Input Category Name & Description and click Submit button.<br>
-Go back to Category & copy Category Code<br>
+Go back to Category & copy Category Code.
 <br><br>
 **Step 4**: Go to Dashboard<br>
 Scroll to bottom and copy your Secret Key
